@@ -1,0 +1,45 @@
+# macOS системні файли
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Папка з кешем для Finder
+__MACOSX/
+
+# Іконки з папок
+Icon?
+
+# macOS файл списку ресурсів
+*.rsrc
+
+# Файли з атрибутами (наприклад, коли копіюється через архіватор)
+._*
+
+# Файли сторонніх текстових редакторів
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+
+# Сервісні файли IDE
+.idea/
+*.iml
+.vscode/
+
+# Лог-файли та файли налагодження
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Файли налаштувань node
+node_modules/
+dist/
+build/
+
+# Тимчасові файли
+tmp/
+temp/
+*.log
+
+# Файли з кешем
+.cache/
+.parcel-cache/
